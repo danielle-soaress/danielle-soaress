@@ -1,19 +1,19 @@
-<img width="100%" alt="Hi there! I'm Danielle ;)" src="./banner.png"></img>
+<img width="100%" alt="Hi there! I'm Danielle ;)" src="./banner-readme.png"></img>
+<hr>
+
+### About me :relaxed:
+<br>
+
+<div>
+  <img src="https://skillicons.dev/icons?i=java,js,react,html,css,sass,figma" alt="Skills logo"></img>
+</div>
+
+<br>
+
+- ⚡ I'm a software engineering student and full stack developer.
+- 🌱 Currently, I'm delving deeper into Java and enjoying my free time to work on some personal projects.
+- :closed_book: Check my personal portfolio <a href="" alt="My personal portfolio">here</a> ;)
+- :pray: Thank you for reading my README!
 
 
-### Hi there 👋
 
-<!--
-**danielle-soaress/danielle-soaress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
