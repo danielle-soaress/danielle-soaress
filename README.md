@@ -12,7 +12,7 @@
 
 - ⚡ I'm a software engineering student and full stack developer.
 - 🌱 Currently, I'm delving deeper into Java and enjoying my free time to work on some personal projects.
-- :closed_book: Check my personal portfolio <a href="" alt="My personal portfolio">here</a> ;)
+- :closed_book: Check my personal portfolio <a href="https://personal-portfolio-nu-blond.vercel.app/#introduction" target="_blank" alt="My personal portfolio">here</a> ;)
 - :pray: Thank you for reading my README!
 
 
