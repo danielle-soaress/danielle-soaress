@@ -5,7 +5,7 @@
 <br>
 
 <div>
-  <img src="https://skillicons.dev/icons?i=sql,python,java,js,react,html,css,sass,figma" alt="Skills logo"></img>
+  <img src="https://skillicons.dev/icons?i=mysql,python,java,js,react,html,css,sass,figma" alt="Skills logo"></img>
 </div>
 
 <br>
