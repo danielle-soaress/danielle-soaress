@@ -1,5 +1,4 @@
 <img width="100%" alt="Hi there! I'm Danielle ;)" src="./banner-readme.png"></img>
-<hr>
 
 # About me
 <br>
